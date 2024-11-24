@@ -2,7 +2,9 @@ import React from 'react'
 
 function Checkout() {
   return (
-    <div>Checkout</div>
+    <div>
+      <h1>Hello</h1>
+    </div>
   )
 }
 
